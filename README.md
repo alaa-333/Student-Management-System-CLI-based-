@@ -1,5 +1,5 @@
 # Student-Management-System-CLI-based-
- # Student Management System (CLI-based)
+
 
 ## 📌 Overview
 The **Student Management System** is a simple **Java-based CLI application** that allows users to perform **CRUD operations** (Create, Read, Update, and Delete) on student records. This system utilizes **Java collections and streams** to manage student data efficiently.
